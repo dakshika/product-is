@@ -118,3 +118,6 @@ button.grey-bg {
 button.font-extra-large {
     font-size: 20px;
 }
+img.idp-image {
+    padding: 3px 2px;
+}
